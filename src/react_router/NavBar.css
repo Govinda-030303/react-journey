@@ -1,0 +1,13 @@
+ul {
+  list-style: none;
+  display: flex;
+  padding-right: 10px;
+  justify-content: space-between;
+  background-color: rgb(69, 224, 173);
+}
+.active-link-home {
+  color: bisque;
+}
+.active-link-about {
+  color: bisque;
+}
